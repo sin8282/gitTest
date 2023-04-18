@@ -1,5 +1,8 @@
 team: Kim
 
+coach:
+  - Shin
+
 member:
   - a
   - b

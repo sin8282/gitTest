@@ -1,5 +1,8 @@
 team: Shin
 
+coach:
+  - Shin
+
 member:
   - a
   - b
