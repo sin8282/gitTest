@@ -7,3 +7,5 @@ member:
   - a
   - b
   - c
+  
+fetch: this
